@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0fa62631.css",
+    "main.js": "./static/js/main.6deea7eb.js",
+    "static/media/fondo-screen.jpg": "./static/media/fondo-screen.f85b86283043a5be2cbc.jpg",
+    "static/media/fondopokedex.gif": "./static/media/fondopokedex.386e0af72d79784d13d7.gif",
+    "static/media/fondo-caratula.jpg": "./static/media/fondo-caratula.af3fa1b0bac55c516451.jpg",
+    "index.html": "./index.html",
+    "main.0fa62631.css.map": "./static/css/main.0fa62631.css.map",
+    "main.6deea7eb.js.map": "./static/js/main.6deea7eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa62631.css",
+    "static/js/main.6deea7eb.js"
+  ]
+}
